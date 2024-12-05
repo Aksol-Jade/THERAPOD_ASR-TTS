@@ -1,3 +1,4 @@
+# Python Version best suited to run modules =3.10
 # THERAPOD_ASR-TTS
  Therapod Thesis Project ASR and TTS programing Files
 
