@@ -66,7 +66,7 @@ def listen_for_commands():
                     # Print and store the final output
                     print("Final Output:")
                     print(final_output)
-                    return final_output
+                    
                 except sr.UnknownValueError:
                     print("Could not understand audio.")
                 except sr.RequestError as e:
